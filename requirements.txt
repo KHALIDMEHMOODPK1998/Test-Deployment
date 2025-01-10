@@ -3,5 +3,5 @@ pydantic
 faiss-cpu
 sentence-transformers
 numpy
-groq-client
+groq
 uvicorn
