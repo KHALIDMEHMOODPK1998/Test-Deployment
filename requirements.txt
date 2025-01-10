@@ -1,7 +1,2 @@
 fastapi
-pydantic
-faiss-cpu
-sentence-transformers
-numpy
-groq
 uvicorn
